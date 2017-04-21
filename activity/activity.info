@@ -1,0 +1,8 @@
+[Activity]
+name = ShowNTell
+service_name = org.laptop.showntell
+class = showntell.ShowNTell
+icon = showntell-activity
+activity_version = 6
+show_launcher = yes
+mime_types = application/x-classroompresenter; application/zip

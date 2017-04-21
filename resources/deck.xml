@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<deck>
+    <title>New</title>
+    <slide title="title">
+        <layer>title.html</layer>
+        <self><text/></self>
+        <thumb>title_thumb.png</thumb>
+    </slide>
+</deck>
